@@ -1,0 +1,221 @@
+body{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: rgba(0, 0, 0, 0.918);
+    padding-top:25px;
+    padding-bottom:25px;
+    background-image: url("https://github.com/LHMezentier1/lab/blob/main/img/bokeh_car_lights_bg.jpg?raw=true");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    #a1{
+        padding-top:15px;
+        color:white;
+        position:absolute;
+        position:left;
+        margin-left: 50px;
+    }
+    ul{
+        display: flex;
+        flex-direction: row;
+        padding: 15px;
+        list-style-type: none;
+        margin-left:62%;
+    }
+    li{
+        color:white;
+        padding: 15px;
+    }
+    h1{
+        color:white;
+        text-align:center;
+    }
+    p{
+        color:white;
+        text-align:center;
+    }
+}
+#b1{
+    background-color: #202020;
+    text-align: center;
+    padding-top:3.5%;
+    padding-bottom:3.5%;
+    h2{
+        color:white;
+    }
+    p{
+        padding-bottom:50px;
+        color:#909090;
+    }
+
+}
+.green{
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color: #629f2c;
+    border: none;
+}
+#b2{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    p{
+        padding-bottom:50px;
+        color:#909090;
+    }
+    ul{
+        display: flex;
+        flex-direction: row;
+        list-style-type: none;
+        margin-left:15%;
+    }
+    div{
+        i{
+            font-size:4em;
+            padding-top:15px;
+        }
+        width:40%;
+        border: 2px solid black;
+    }
+    button{
+        margin-top: 3%;
+    }
+    padding-bottom:3%;
+}
+#b3{
+    h2{
+        color:white;
+    }
+    background-color: #629f2c;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    p{
+        color:#ffffff;
+        font-size: 0.6em;
+    }
+
+}
+.white{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    color:#629f2c;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color: #fdfdfd;
+    border: none;
+}
+#b4{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    button{
+        margin-top:40px;
+        margin-bottom:30px;
+    }
+
+}
+#ut{
+    margin-bottom:10px;
+}
+footer{
+    background-color:#333333;
+    color:white;
+     text-align: center;
+      padding-top:30px;
+    padding-bottom:30px;
+
+}
+h2{
+    padding-top:40px;
+}
+.button{
+    display:block;
+    color:white;
+    margin:auto;
+    background-color:#3cadd4;
+    border-radius:5px;
+    padding:4px;
+    padding-left:45px;
+    padding-right:45px;
+}
+#s1{
+    margin-top:-50px;
+    text-align: center;
+    background-color:#f5f5f5;
+    margin-bottom:-37px;
+}
+#s2{
+    padding-top:40px;
+    background-color:#f5f5f5;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    div{
+        margin: 35px;
+        padding:30px;
+        padding-left:50px;
+        padding-right:50px;
+        background-color:white;
+        border:solid 5px #f5f5f5;
+    }
+    i{
+        color:white;
+        border-radius:30px;
+        margin-bottom:-45px;
+    }
+}
+#id1{
+    background-color: #3cadd4;
+    padding:20px;
+}
+#id2{
+    background-color:#add43b;
+    padding:20px;
+}
+#id3{
+    background-color:#d43b60;
+    padding:20px;
+}
+#s3{
+    text-align:center;
+    div{
+        ul{
+            display:flex;
+            list-style: none;
+            flex-direction: row;
+            justify-content: center;
+            div{
+                display:flex;
+                flex-direction: row;
+                i{
+                    margin-right:10px;
+                    font-size:3em;
+                }
+            }
+        }
+        padding:30px;
+        text-align:center;
+    }
+    padding-bottom:50px;
+}
+footer{
+
+    ul{
+        display:flex;
+        flex-direction:row;
+    list-style: none;   
+    justify-content:center;
+    li{
+        padding:150px;
+    }
+}
+
+}
